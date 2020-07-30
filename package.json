@@ -1,0 +1,29 @@
+{
+  "name": "axios2",
+  "version": "1.0.0",
+  "description": "Axios使用说明\r 通过axios简化了以前xmlhttprequest 以及fetch 对后端接口进行ajax请求的流程\r 并且他自己返回的是promise对象 所以可以通过async 和await 来对结果进行读取，",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjutlsw/axios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjutlsw/axios/issues"
+  },
+  "homepage": "https://github.com/zjutlsw/axios#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.0",
+    "koa-body": "^4.2.0",
+    "koa-jwt": "^4.0.0",
+    "koa-router": "^9.1.0",
+    "koa-static": "^5.0.0"
+  }
+}
