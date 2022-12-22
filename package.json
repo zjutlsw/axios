@@ -19,7 +19,7 @@
   "homepage": "https://github.com/zjutlsw/axios#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "koa": "^2.13.0",
     "koa-body": "^4.2.0",
     "koa-jwt": "^4.0.0",
